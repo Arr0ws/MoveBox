@@ -5,5 +5,5 @@ A simple browser game about... boxes
 
 > BTW this game is only for pc, for now
 
-<Movement>
+Movement
 ## [W] [A] [S] [D]
